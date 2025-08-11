@@ -1,8 +1,23 @@
-2:I[6513,[],"ClientPageRoot"]
-3:I[7400,["138","static/chunks/138-6e7ff9bac94e72b6.js","955","static/chunks/app/thank-you/page-6878cc3c883fb316.js"],"default"]
-4:I[9275,[],""]
-5:I[1343,[],""]
-6:I[618,["138","static/chunks/138-6e7ff9bac94e72b6.js","160","static/chunks/app/not-found-7dc7f42bc0b33f7a.js"],"default"]
-0:["mTRLbsRD8yROY0HE53SBC",[[["",{"children":["thank-you",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["thank-you",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","thank-you","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_29c94b __variable_b5c052 __variable_66d800 antialiased","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L6",null,{}],"notFoundStyles":[],"styles":null}]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/black-designer/_next/static/css/9a7d1b3e25882736.css","precedence":"next","crossOrigin":"$undefined"}]],[null,"$L7"]]]]]
-7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"黒いUXデザイナーのポートフォリオサイト"}],["$","meta","3",{"name":"description","content":"黒いUXデザイナーのポートフォリオサイト（架空）"}]]
-1:null
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+4:I[1024,["874","static/chunks/874-337b4094b64e0ad0.js","345","static/chunks/app/not-found-a971e1d5fa1d499c.js"],"default"]
+5:I[894,[],"ClientPageRoot"]
+6:I[2820,["874","static/chunks/874-337b4094b64e0ad0.js","755","static/chunks/app/thank-you/page-2fe3d5254acb61bc.js"],"default"]
+9:I[9665,[],"MetadataBoundary"]
+b:I[9665,[],"OutletBoundary"]
+e:I[4911,[],"AsyncMetadataOutlet"]
+10:I[9665,[],"ViewportBoundary"]
+12:I[6614,[],""]
+:HL["/black-designer/_next/static/css/a13d3128e03c7f41.css","style"]
+0:{"P":null,"b":"p4gJyAE-ZpBXz0YL8hiQr","p":"/black-designer","c":["","thank-you",""],"i":false,"f":[[["",{"children":["thank-you",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/black-designer/_next/static/css/a13d3128e03c7f41.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_5f614e __variable_75cc12 __variable_66d800 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L4",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["thank-you",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],["$","$L9",null,{"children":"$La"}],null,["$","$Lb",null,{"children":["$Lc","$Ld",["$","$Le",null,{"promise":"$@f"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","k6yl3tnTSwA3JRAWWQlHu",{"children":[["$","$L10",null,{"children":"$L11"}],null]}],null]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:"$Sreact.suspense"
+14:I[4911,[],"AsyncMetadata"]
+7:{}
+8:{}
+a:["$","$13",null,{"fallback":null,"children":["$","$L14",null,{"promise":"$@15"}]}]
+d:null
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+15:{"metadata":[["$","title","0",{"children":"黒いUXデザイナーのポートフォリオサイト"}],["$","meta","1",{"name":"description","content":"黒いUXデザイナーのポートフォリオサイト（架空）"}]],"error":null,"digest":"$undefined"}
+f:{"metadata":"$15:metadata","error":null,"digest":"$undefined"}
